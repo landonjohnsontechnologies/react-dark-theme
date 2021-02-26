@@ -1,3 +1,5 @@
+// import the component that uses next-themes
+
 import Head from "next/head";
 import ToggleMode from "../components/toggleMode";
 

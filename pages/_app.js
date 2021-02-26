@@ -1,3 +1,5 @@
+// import ThemeProvider from next-themes and wrap Component with it
+
 import { ThemeProvider } from "next-themes";
 import "../styles/globals.scss";
 
